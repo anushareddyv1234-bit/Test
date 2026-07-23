@@ -1,0 +1,7 @@
+[Header]
+Name = Embedded Executable
+Note = Executable hidden inside image
+
+[Rules]
+/MZ/
+/This program cannot be run in DOS mode/

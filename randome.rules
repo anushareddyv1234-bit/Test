@@ -1,0 +1,8 @@
+[Header]
+Name = Ransomware.Sample
+Note = Demonstration Ransomware
+
+[Rules]
+/EncryptFile/
+/DeleteShadowCopies/
+/vssadmin/

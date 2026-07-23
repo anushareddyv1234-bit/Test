@@ -1,1 +1,14 @@
+This is a sample executable file.
 
+Import Table:
+CreateRemoteThread
+VirtualAlloc
+
+Other APIs:
+LoadLibraryA
+GetProcAddress
+
+Command:
+cmd.exe
+
+End of File

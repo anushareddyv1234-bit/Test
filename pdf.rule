@@ -1,0 +1,9 @@
+[Header]
+Name = Suspicious PDF
+Note = Detects suspicious PDF actions
+
+[Rules]
+/\/JavaScript/
+/\/OpenAction/
+/\/Launch/
+/\/EmbeddedFile/

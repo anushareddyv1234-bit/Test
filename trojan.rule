@@ -1,0 +1,7 @@
+[Header]
+Name = Trojan.Generic
+Note = Demonstration Trojan
+
+[Rules]
+/CreateRemoteThread/ /VirtualAlloc/
+/cmd\.exe/
